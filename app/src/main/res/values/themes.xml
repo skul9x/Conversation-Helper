@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Conversation" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+        <item name="android:colorBackground">@color/surfaceContainer</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="colorSurfaceContainer">@color/surfaceContainer</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariant</item>
+    </style>
+
+    <style name="Theme.Conversation" parent="Base.Theme.Conversation" />
+</resources>

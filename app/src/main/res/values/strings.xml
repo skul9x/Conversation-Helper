@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Conversation Helper</string>
+    <string name="chinese_language_not_supported">Gói ngôn ngữ tiếng Trung không được hỗ trợ hoặc chưa cài đặt.</string>
+    <string name="tts_not_ready">Bộ đọc văn bản chưa sẵn sàng.</string>
+    <string name="add_new_sentence">Thêm câu mới</string>
+    <string name="edit_sentence">Chỉnh sửa câu</string>
+    <string name="delete_sentence">Xóa câu</string>
+    <string name="are_you_sure_delete">Bạn có chắc chắn muốn xóa câu này không?</string>
+    <string name="chinese_sentence_hint">Câu tiếng Trung</string>
+    <string name="vietnamese_note_hint">Chú thích tiếng Việt (tùy chọn)</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Sửa</string>
+    <string name="move_up">Di chuyển lên</string>
+    <string name="move_down">Di chuyển xuống</string>
+    <string name="options_menu">Menu tùy chọn</string>
+    <string name="chinese_sentence_cannot_be_empty">Câu tiếng Trung không được để trống.</string>
+
+    <string name="copyright_text">© 2025 skul9x</string>
+    <string name="backup_data">Sao lưu dữ liệu</string>
+    <string name="restore_data">Phục hồi dữ liệu</string>
+    <string name="empty_state_message">Chưa có câu nào.\nNhấn + để bắt đầu!</string>
+</resources>
